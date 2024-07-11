@@ -1,0 +1,9 @@
+Ítem	Peso (kg)	Valor ($)
+1	1		2
+2	2		4
+3	3		5
+4	4		6
+5	5		3
+
+
+Capacidad máxima de la mochila: 5 kg
